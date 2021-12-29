@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://github.com/Kavee2476/KAVEE-v1/blob/v1/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
+
 
 <p align="center">
     <a href="https:/github.io">
@@ -17,6 +16,9 @@
 ## Heroku Buildpack
 
 Click the deploy icon below !
+
+
+[![replit](https://www.herokucdn.com/deploy/button.svg)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FKavee2476%2FKAVEE-v1)
 
