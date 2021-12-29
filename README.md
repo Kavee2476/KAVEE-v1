@@ -4,8 +4,8 @@
 <p align="center">
     <a href="https:/github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+for+using+haruka+bot+🤗"
-            alt="ZeeoneOfc"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+for+using+KAVEE+bot+�"
+            alt=""
         />
     </a>
 </p>
