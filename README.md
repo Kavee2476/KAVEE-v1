@@ -10,12 +10,7 @@
     </a>
 </p>
 
-</p>
-<p align="center">
-<a href=".github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-</
-</p>
-</div>
+
 
 
 # Instalasi
