@@ -32,8 +32,8 @@ Click the deploy icon below !
 ```bash
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
-> git clone https://github.com/zeeoneofc/Haruka.git
-> cd Haruka
+> git clone https://github.com/Kavee2476/KAVEE-v1
+> cd KAVEE-v1
 > npm install
 > node haruka.js
 ```
